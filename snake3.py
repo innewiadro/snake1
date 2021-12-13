@@ -15,8 +15,8 @@ green = (0, 255, 0)
 
 #wielkosc pola po którym sunie waz
 
-dis_width = 800
-dis_height = 800
+dis_width = 400
+dis_height = 400
 dis = pygame.display.set_mode((dis_width, dis_height))
 
 #napis na górze
