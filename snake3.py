@@ -1,4 +1,4 @@
-# :1 https://ichi.pro/pl/jak-zaimplementowac-gre-snake-w-pythonie-za-pomoca-pygame-80810187419306
+
 import time
 import pygame
 import random
